@@ -11,7 +11,7 @@ A collection of great Sessionize profiles to use as inspiration for your own. Us
 * [Cecilia Wirén](https://sessionize.com/cecilia-wiren/) - Azure, AI, DevOps
 * [Clarissa Rodriguez](https://sessionize.com/clarissa-almeida-rodrigues/) - Testing, UX, Soft skills
 * [Daniel Paulus](https://sessionize.com/danielpaulus/) - Azure, DevOps
-* [Dennie Declerq](https://sessionize.com/dennie-declercq/) - .NET, Blazor, Accessibility
+* [Dennie Declercq](https://sessionize.com/dennie-declercq/) - .NET, Blazor, Accessibility
 * [Eduard Keilholz](https://sessionize.com/eduard) - Azure, .NET
 * [Femke Cornelissen](https://sessionize.com/femke-cornelissen/) - Microsoft 365, Power Platform
 * [Gerald Versluis](https://sessionize.com/jfversluis) - .NET, MAUI, Blazor
