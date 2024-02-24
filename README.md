@@ -9,7 +9,7 @@ A collection of great Sessionize profiles to use as inspiration for your own. Us
 * [Arthur Doler](https://sessionize.com/arthur-doler/) - Soft skills, Psychology
 * [Callum Whyte](https://sessionize.com/callumbwhyte) - .NET, Azure, Umbraco
 * [Cecilia Wirén](https://sessionize.com/cecilia-wiren/) - Azure, AI, DevOps
-* [Clarissa Rodriguez](https://sessionize.com/clarissa-almeida-rodrigues/) - Testing, UX Design, Management, Soft skills
+* [Clarissa Rodriguez](https://sessionize.com/clarissa-almeida-rodrigues/) - Testing, UX, Soft skills
 * [Daniel Paulus](https://sessionize.com/danielpaulus/) - Azure, DevOps
 * [Dennie Declerq](https://sessionize.com/dennie-declercq/) - .NET, Blazor, Accessibility
 * [Eduard Keilholz](https://sessionize.com/eduard) - Azure, .NET
@@ -17,17 +17,17 @@ A collection of great Sessionize profiles to use as inspiration for your own. Us
 * [Gerald Versluis](https://sessionize.com/jfversluis) - .NET, MAUI, Blazor
 * [Hanna Engel](https://sessionize.com/hanna-engel/) - Azure, Quantum Computing, Soft skills
 * [Isaac Levin](https://sessionize.com/isaacrlevin/) - .NET, Azure
-* [Jessica Engström](https://sessionize.com/EngstromJess/) - UX Design, Accessibility, Public speaking
+* [Jessica Engström](https://sessionize.com/EngstromJess/) - UX, Accessibility, Public speaking
 * [Jimmy Engström](https://sessionize.com/EngstromJimmy) - .NET, Blazor
 * [Lars Klint](https://sessionize.com/larsklint/) - Cloud, DevOps
 * [Layla Porter](https://sessionize.com/layla-porter/) - .NET, Web
 * [Louella Creemers](https://sessionize.com/louelladev) - .NET, Soft skills
 * [Lutske de Leeuw](https://sessionize.com/Lutske/) - Machine Learning, Data Science
 * [Marc Duiker](https://sessionize.com/marcduiker/) - Dapr, Azure
+* [Martin Thwaites](https://sessionize.com/martin-thwaites) - .NET, Azure
 * [Matthijs van der Veer](https://sessionize.com/matthijs-van-der-veer/) - AI, IoT, Azure
 * [Michelle Wong](https://sessionize.com/michelle-wong/) - Microsoft 365, AI, Power Platform
 * [Mike Martin](https://sessionize.com/mikemartin/) - Azure, GitHub, .NET
-* [Nartin Thwaites](https://sessionize.com/martin-thwaites) - .NET, Azure
 * [Poornima Nayar](https://sessionize.com/poornima-nayar/) - .NET, Umbraco, MAUI
 * [Rachel Appel](https://sessionize.com/rachelappel)- .NET, Azure, Web
 * [Roland Guijt](https://sessionize.com/roland-guijt/) - .NET, React
